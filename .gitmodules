@@ -1,0 +1,6 @@
+[submodule "cg"]
+        path = cg
+        url = git@github.com:libretro/common-shaders.git
+[submodule "glsl"]
+        path = glsl
+        url = git@github.com:pinkeen/libretro-common-shaders-glsl.git
